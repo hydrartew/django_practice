@@ -1,4 +1,4 @@
-<h2 align="center">Django Movie</h2>
+# django_practice
 
 [Сайт](https://djangochannel.com)
 
@@ -20,4 +20,4 @@
 # Старт
 
     python manage.py runserver
-# django_practice
+
