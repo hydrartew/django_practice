@@ -1,6 +1,6 @@
-<h2 align="center">Django Movie</h2>
+# django_practice
 
-[Сайт](https://djangochannel.com)
+[Сайт]()
 
 Сайт кроссовок на Django 4.
 
@@ -20,4 +20,4 @@
 # Старт
 
     python manage.py runserver
-# django_practice
+
