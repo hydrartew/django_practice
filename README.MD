@@ -1,7 +1,5 @@
 # django_practice
 
-[Сайт](/)
-
 Сайт кроссовок на Django 4.
 
 Пет-проект на Django 4.
