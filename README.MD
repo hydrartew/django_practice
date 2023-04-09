@@ -1,6 +1,6 @@
 # django_practice
 
-[Сайт](https://djangochannel.com)
+[Сайт]()
 
 Сайт кроссовок на Django 4.
 
